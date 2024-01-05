@@ -1,8 +1,6 @@
 <h1><?php echo lang('create_user_heading');?></h1>
 <p><?php echo lang('create_user_subheading');?></p>
-
 <div id="infoMessage"><?php echo $message;?></div>
-
 <?php echo form_open("auth/create_user");?>
 
       <p>
