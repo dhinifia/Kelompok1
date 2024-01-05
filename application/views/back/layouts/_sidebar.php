@@ -7,7 +7,7 @@
 		</div>
 		<div class="sidebar-brand-text mx-2">Admin - MAN Pati</div>
 	</a>
-
+	
 	<!-- Divider -->
 	<hr class="sidebar-divider my-0">
 
