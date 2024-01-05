@@ -28,9 +28,7 @@
                   </div>
 
                   <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Submit</button>
-
                   <hr class="my-4">
-
                   <div class="text-center mt-3">
                   Have an account ? <a href="<?= base_url('auth/login') ?>">Sign In</a> 
                   </div>
