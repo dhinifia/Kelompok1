@@ -1,7 +1,7 @@
 <script>
     var ctx = document.getElementById('myAreaChart').getContext('2d');
     var cData = JSON.parse(`<?= $chart; ?>`);
-
+	
     var myChart = new Chart(ctx, {
       type: 'bar',
       data: {
