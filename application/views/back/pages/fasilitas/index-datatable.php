@@ -4,7 +4,7 @@
 
    // Show Table
    $(document).ready(function(){
-
+	   
       tableFasilitas = $('#tableFasilitas').DataTable({
          processing: true,
          serverSide: true,
