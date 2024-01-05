@@ -4,7 +4,7 @@
 			<h3>Form Struktur Organisasi Sekolah</h3>
 		</div>
 	</div>
-
+	
 	<?= form_open_multipart($form_action) ?>
 		<?= isset($content->id) ? form_hidden('id', $content->id) : '' ?>
 
