@@ -1,7 +1,7 @@
 <script type="text/javascript">
 
    let tableBerita;
-
+	
    // Show Table
    $(document).ready(function(){
 
